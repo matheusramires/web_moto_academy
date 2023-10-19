@@ -1,4 +1,4 @@
-/*Estilo do body*/
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=Tilt+Neon&display=swap');/*Estilo do body*/
 body{
     background-color: darkgray;
     margin: 0px;
@@ -28,4 +28,13 @@ body{
     left: 0px;
     border: 1px solid #000;
 
+}
+.paragrafo{
+    width: 600px;
+    margin: 50px;
+    border: 1px solid #000;
+    color: #000;
+    font-family: 'Tilt Neon', sans-serif;
+    text-shadow:  3px 3px 4px #831D1C, 3px 3px 4px #aaffaa;
+    font-size: 20px;
 }
