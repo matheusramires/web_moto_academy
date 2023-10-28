@@ -1,5 +1,2 @@
-comandos git
-
-git add .
-git commit -m "mensagem"
-git push -u oringin main
+tecnologias usadas 
+html, css, bootstrap, git e github
