@@ -1,0 +1,11 @@
+estudar pilha
+
+call stack - ?
+
+eckmascript - ?
+
+Array = []
+push (++)
+pop (--)
+
+Objeto = {}
