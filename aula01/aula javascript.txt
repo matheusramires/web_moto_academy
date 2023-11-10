@@ -1,11 +1,4 @@
-estudar pilha
+revisar Arrays em Javascript
 
-call stack - ?
-
-eckmascript - ?
-
-Array = []
-push (++)
-pop (--)
-
-Objeto = {}
+what is Typescript?
+Superset de Javascript
