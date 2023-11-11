@@ -2,3 +2,23 @@ revisar Arrays em Javascript
 
 what is Typescript?
 Superset de Javascript
+
+Angular:
+estrutura baseada em componentes p criar app da web escalaveis
+coleçao de bibliotecas bem integradas, cobrem ampla variedade de recursos(roteamento, gerenciamento de formularios, comunicacao cleinte-servidor)
+conjuntos de ferramentas de desenvolvimento para adular a desenvolver, criar e atualizar o code.
+
+    Componentes:   
+        sao blocos de construcao que compoem um app. inclui uma classe Typescriot com um decorador @component(), um modelo HTML e estilos.
+    
+
+    instalar o Angular
+        1 instalar o node
+        2 instalar o npm
+        sudo npm install -g @angular/cleinte
+
+    criar uma aplicacao angular
+
+    -ng new first-project
+    -escolher SCSS
+    -entrar na pasta criada e rodar "ng serve"
