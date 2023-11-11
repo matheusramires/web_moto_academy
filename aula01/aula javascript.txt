@@ -19,6 +19,10 @@ conjuntos de ferramentas de desenvolvimento para adular a desenvolver, criar e a
 
     criar uma aplicacao angular
 
-    -ng new first-project
-    -escolher SCSS
-    -entrar na pasta criada e rodar "ng serve"
+        -ng new first-project
+        -escolher SCSS
+        -entrar na pasta criada e rodar "ng serve"
+
+
+material icon theme --- deixa tudo bonitinho com icone
+angular language serve -- recomendado
